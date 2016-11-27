@@ -56,4 +56,4 @@ time.sleep( 30 )
 myLcd.clear()
 
 
-# added test
+
