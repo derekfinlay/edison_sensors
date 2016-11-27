@@ -57,3 +57,5 @@ while 1:
         ledState = True
 
     time.sleep(0.005)
+
+# Use this as button and led 
