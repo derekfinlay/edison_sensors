@@ -18,6 +18,8 @@ for chord_ind in range (0,7):
     time.sleep(0.1)
 
 print "exiting application"
+time.sleep(2)
+print buzzer.playSound(0,00)
 
 # Delete the buzzer object
 del buzzer
